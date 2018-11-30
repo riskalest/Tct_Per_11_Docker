@@ -13,41 +13,41 @@ Pada pertemuan ke-11 ini kita mempraktikkan bagaimana menggunakan docker, membua
 
 #### Step 1 - Running A Container
  
- ![logo](https://github.com/riskalest/tct/blob/master/minggu-09/Web-2.0.jpg)
+ ![logo](https://github.com/riskalest/Tct_Per_11_Docker/blob/master/1_s_1.PNG)
  
 #### Step 2 - Finding Running Containers
 
- ![logo](https://github.com/riskalest/tct/blob/master/minggu-09/Web-2.0.jpg)
+ ![logo](https://github.com/riskalest/Tct_Per_11_Docker/blob/master/1_s_2.PNG)
  
 #### Step 3 - Accessing Redis
 
- ![logo](https://github.com/riskalest/tct/blob/master/minggu-09/Web-2.0.jpg)
+ ![logo](https://github.com/riskalest/Tct_Per_11_Docker/blob/master/1_s_3.PNG)
  
 #### Step 4 - Accessing Redis
 
- ![logo](https://github.com/riskalest/tct/blob/master/minggu-09/Web-2.0.jpg)
+ ![logo](https://github.com/riskalest/Tct_Per_11_Docker/blob/master/1_s_4.PNG)
  
 #### Step 5 - Persisting Data
 
- ![logo](https://github.com/riskalest/tct/blob/master/minggu-09/Web-2.0.jpg)
+ ![logo](https://github.com/riskalest/Tct_Per_11_Docker/blob/master/1_s_5.PNG)
  
 #### Step 6 - Running A Container In The Foreground
 
- ![logo](https://github.com/riskalest/tct/blob/master/minggu-09/Web-2.0.jpg)
+ ![logo](https://github.com/riskalest/Tct_Per_11_Docker/blob/master/1_s_6.PNG)
 
 ### 2.	https://www.katacoda.com/courses/docker/create-nginx-static-web-server/
 
 #### Step 1 - Create Dockerfile
 
- ![logo](https://github.com/riskalest/tct/blob/master/minggu-09/Web-2.0.jpg)
+ ![logo](https://github.com/riskalest/Tct_Per_11_Docker/blob/master/2_s_1.PNG)
  
 #### Step 2 - Build Docker Image
 
- ![logo](https://github.com/riskalest/tct/blob/master/minggu-09/Web-2.0.jpg)
+ ![logo](https://github.com/riskalest/Tct_Per_11_Docker/blob/master/2_s_2.PNG)
  
 #### Step 3 - Run
 
- ![logo](https://github.com/riskalest/tct/blob/master/minggu-09/Web-2.0.jpg)
+ ![logo](https://github.com/riskalest/Tct_Per_11_Docker/blob/master/2_s_3.PNG)
 
 ### 3.	https://www.katacoda.com/courses/docker/2/
 
@@ -67,15 +67,16 @@ EXPOSE 80
 
 CMD ["nginx", "-g", "daemon off;"]
 
- ![logo](https://github.com/riskalest/tct/blob/master/minggu-09/Web-2.0.jpg)
+ ![logo](https://github.com/riskalest/Tct_Per_11_Docker/blob/master/3_s_4.PNG)
 
 #### Step 5 - Building Containers
 
- ![logo](https://github.com/riskalest/tct/blob/master/minggu-09/Web-2.0.jpg)
+ ![logo](https://github.com/riskalest/Tct_Per_11_Docker/blob/master/3_s_5.PNG)
  
 #### Step 6 - Launching New Image
 
- ![logo](https://github.com/riskalest/tct/blob/master/minggu-09/Web-2.0.jpg)
+ ![logo](https://github.com/riskalest/Tct_Per_11_Docker/blob/master/3_s_6.PNG)
+ 
 
 ### 4.	https://www.katacoda.com/courses/docker/3/
 
