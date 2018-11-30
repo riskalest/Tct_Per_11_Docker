@@ -12,14 +12,20 @@ Pada pertemuan ke-11 ini kita mempraktikkan bagaimana menggunakan docker, membua
 ### 1.	https://www.katacoda.com/courses/docker/deploying-first-container/
 
 #### Step 1 - Running A Container
+
+Menjalankan container dengan docker image bernama radis,
  
  ![logo](https://github.com/riskalest/Tct_Per_11_Docker/blob/master/1_s_1.PNG)
  
 #### Step 2 - Finding Running Containers
 
+Mencari Containewr yang sedang berjalan. Pada command akan menampilkan list semua container yang sedang berjalan, dan image digunakan untuk start dan waktunya. pada command juga menampilkan nama dan ID yang bisa digunakan untuk mencari informasi pada tiap container.
+
  ![logo](https://github.com/riskalest/Tct_Per_11_Docker/blob/master/1_s_2.PNG)
  
 #### Step 3 - Accessing Redis
+
+Karena Radis berjalan pada port 6379, sehingga untuk mengakses radis menggunakan nama redisHostPort pada port 6379. 
 
  ![logo](https://github.com/riskalest/Tct_Per_11_Docker/blob/master/1_s_3.PNG)
  
@@ -42,6 +48,8 @@ Pada pertemuan ke-11 ini kita mempraktikkan bagaimana menggunakan docker, membua
  ![logo](https://github.com/riskalest/Tct_Per_11_Docker/blob/master/2_s_1.PNG)
  
 #### Step 2 - Build Docker Image
+
+Docker image merupakan sekumpulan software siap pakai yang tidak perlu dinstall, dan bisa langsung digunakan.
 
  ![logo](https://github.com/riskalest/Tct_Per_11_Docker/blob/master/2_s_2.PNG)
  
